@@ -1,0 +1,424 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+        /*    header start here*/
+    header {
+    padding-top: 25px;
+}
+    .menu ul li a {
+    text-align: right;
+     padding: 5px 0px !important;
+}
+.menu ul li a:hover{
+    background-color: white !important;
+    color: #eb1b2b !important;
+}
+.menu ul li.activate a{
+    background-color: white !important;
+    color: #eb1b2b !important;
+    border: none;
+}
+/*    header end here*/
+    
+/*    banner start here*/
+    .banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.banner-content{
+  text-align: center;
+}
+.banner-button{
+  text-align: center;
+}
+    .btn-banner {
+    margin-top: 15px;
+}
+
+    .common-title {
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+    .common-paragraph {
+    letter-spacing: 1px;
+    padding: 20px 0px;
+}
+/*    banner end here*/
+/*    feature start here*/
+    .feature {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.f-content {
+    padding: 20px 5px;
+    margin-top: 20px;
+}
+    .f-title {
+    font-size: 22px;
+}
+.t-box h1 {
+    font-size: 36px;
+}
+/*    feature end here*/
+/*    blog start here*/
+    .blog {
+    padding: 30px;
+}
+    .space {
+    letter-spacing: 0px;
+    font-size: 20px;
+}
+    .common-paragraph {
+    padding: 10px 0px;
+}
+    .blog-box {
+    margin-top: 20px;
+}
+    .blog-btn {
+    padding-top: 50px;
+    margin-left: 32px;
+}
+/*    blog end here*/
+    
+/*    team start here*/
+    .team {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+/*    team end here*/
+.timeline {
+    padding: 65px;
+}
+/*    campaign start here*/
+    .campaign {
+    padding-bottom: 50px;
+}
+    .campaign-p{
+    padding: 0px 0px;
+}
+    .campaign-item {
+    margin-top: 15px;
+}
+    .card-custom {
+    font-size: 16px;
+}
+.pd {
+    padding-top: 120px;
+}
+/*    campaign end here*/
+    
+/*    member start here*/
+    .member {
+    padding: 40px 0px;
+}
+    .member-content {
+    font-size: 15px;
+    letter-spacing: 0px;
+}
+    .m-count {
+    font-size: 35px;
+    padding: 5px 0px;
+}
+    .button-m {
+    padding-top: 10px;
+}
+/*    member end here*/
+/*    news start here*/
+    .news {
+    padding-top: 40px;
+    padding-bottom: 45px;
+}
+    .n-title {
+    padding-bottom: 30px;
+}
+    .news-card {
+    padding-bottom: 30px;
+
+}
+    .news-box {
+    margin-top: 15px;
+}
+.t-btn {
+    padding-top: 0px;
+}
+/*    news end here*/
+/*    footer start here*/
+    footer {
+    padding: 30px 0px;
+}
+    .footer-icon {
+    margin-top: 25px;
+    }
+    .footer-p {
+    text-align: center;
+}
+/*    footer end here*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*    header start here*/
+    .menu ul li a {
+    text-align: right;
+     padding: 9px 0px !important;
+}
+.menu ul li a:hover{
+    background-color: white !important;
+    color: #eb1b2b !important;
+}
+.menu ul li.activate a{
+    background-color: white !important;
+    color: #eb1b2b !important;
+    border: none;
+}
+/*    header end here*/
+    
+/*    banner start here*/
+    .banner {
+    padding-top: 84px;
+    padding-bottom: 70px;
+}
+/*    banner end here*/
+/*    feature start here*/
+    .feature {
+    padding-bottom: 50px;
+}
+    .f-title {
+    font-size: 16px;
+}
+    .c-p1 {
+    padding-bottom: 10px;
+}
+    .f-content {
+    padding: 25px 20px;
+}
+/*    feature end here*/
+/*    blog start here*/
+    .blog {
+    padding: 60px;
+}
+.space {
+    letter-spacing: 0px;
+    font-size: 30px;
+}
+    .c-p {
+    letter-spacing: 0px;
+    padding: 20px 0px;
+}
+    .blog-box {
+    margin-top: 20px;
+}
+    .blog-btn {
+    padding-top: 60px;
+}
+
+/*    blog end here*/
+/*    team start*/
+    .team {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+/*    team end*/
+.timeline {
+    padding-top: 75px;
+    padding-bottom: 0px;
+}
+/*    campaign start here*/
+    .campaign {
+    padding-bottom: 60px;
+}
+.pd {
+    padding-top: 64px;
+}
+/*    campaign end here*/
+    
+/*    member start here*/
+.member {
+    padding: 50px 0px;
+}
+    .member-content {
+    font-size: 15px;
+    letter-spacing: 0px;
+}
+    .m-count {
+    font-size: 55px;
+    padding: 10px 0px;
+}
+    .button-m {
+    padding-top: 15px;
+}
+/*    member end here*/
+    
+/*    news start here*/
+    .news {
+    padding-top: 40px;
+    padding-bottom: 55px;
+}
+    .n-title {
+    padding-bottom: 30px;
+}
+    .news-title {
+    font-size: 15px;
+}
+    .news-p {
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    padding: 5px 0px;
+}
+    .news-card {
+    padding-bottom: 20px;
+}
+    .news-box {
+    margin-top: 20px;
+}
+/*    news end here*/
+/*    footer start here*/
+    footer {
+    padding: 30px 0px;
+}
+.footer-icon {
+    font-size: 19px;
+}
+    .footer-p {
+    padding-top: 5px;
+    font-size: 12px;
+    letter-spacing: 0px;
+}
+/*    footer end here*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*    header start here*/
+    .menu ul li a {
+    text-align: right;
+     padding: 9px 0px !important;
+}
+.menu ul li a:hover{
+    background-color: white !important;
+    color: #eb1b2b !important;
+}
+.menu ul li.activate a{
+    background-color: white !important;
+    color: #eb1b2b !important;
+}
+/*    header end here*/
+/*    banner start here*/
+    .banner {
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+    .common-title {
+    font-size: 37px;
+}
+    .common-paragraph {
+    padding: 20px 0px;
+}
+/*    banner end here*/
+/*    feature start here*/
+    .feature {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+    .f-content {
+    padding: 25px 20px;
+}
+    .f-title {
+    font-size: 20px;
+}
+    .c-p1 {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+/*    feature end here*/
+ /*timeline start*/
+ .t-box h1 {
+    font-size: 40px;
+}   
+    
+/*    blog start here*/
+.blog {
+    padding: 60px;
+}
+    .blog-btn {
+    padding-top: 60px;
+}
+    .space {
+    letter-spacing: 0px; 
+    font-size: 20px;
+}
+/*    blog end here*/
+    
+/*    team start here*/
+    .team {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+    .team-item {
+    padding-top: 30px;
+}
+    .card-item {
+    margin-top: 15px;
+}
+/*    team end here*/
+/*campaign start*/
+.pd {
+    padding-top: 109px;
+}
+/*campaign end*/
+/*    member start here*/
+    .member {
+    padding: 50px 0px;
+}
+    .member-content {
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+    .m-count {
+    font-size: 55px;
+    padding: 10px 0px;
+}
+    .button-m {
+    padding-top: 15px;
+}
+/*    member end here*/
+    
+/*    news start here*/
+    .news {
+    padding-top: 50px;
+    padding-bottom: 65px;
+}
+    .news-card {
+    padding-bottom: 60px;
+}
+/*    news end here*/
+/*    footer start here*/
+    footer {
+    padding: 40px 0px;
+}
+    .footer-p {
+    font-size: 17px;
+    letter-spacing: 0px;
+}
+/*    footer end here*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*title*/
+    .f-title {
+    font-size: 18px;
+}
+    /*title*/
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+    /*title*/
+    .f-title {
+    font-size: 24px;
+}
+    /*title*/
+    
+}
